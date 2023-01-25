@@ -22,4 +22,4 @@ Per lo stile ho usato Css richiamando le classi create in JS. Ho preferito uno s
 
 ### PROGRAMMATO CON 
 
-* [![Next][JavaScript.js]][JavaScript-url]
+* [![Next][JavaScript.js]][JavaScript-https://it.wikipedia.org/wiki/JavaScript]
