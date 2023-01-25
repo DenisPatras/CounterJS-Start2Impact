@@ -22,7 +22,4 @@ Per lo stile ho usato Css richiamando le classi create in JS. Ho preferito uno s
 
 ### PROGRAMMATO CON 
 
-![logo-javascript-png-java-script-js-logo-format-ai-javascript-logo-vector-png-213](https://user-images.githubusercontent.com/113235420/214693824-29a8d635-4514-4006-a5a3-a59052521697.png)
-![css-3-logo-png-transparent](https://user-images.githubusercontent.com/113235420/214694161-279e465d-8f6f-4e89-808d-7ca74f24978c.png)
-
-
+![456-4561754_html5-js-css3-logo-png-transparent-png](https://user-images.githubusercontent.com/113235420/214694485-7fb59ada-c63d-45db-92b3-4d3bdf904ef6.png)
