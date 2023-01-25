@@ -25,3 +25,8 @@ Per lo stile ho usato Css richiamando le classi create in JS. Ho preferito uno s
 JavaScript 
 Css
 Html
+
+
+LINK TO THE APP 
+
+https://mycounter-start2impactuniversity.netlify.app/
