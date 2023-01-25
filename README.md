@@ -22,4 +22,6 @@ Per lo stile ho usato Css richiamando le classi create in JS. Ho preferito uno s
 
 ### PROGRAMMATO CON 
 
-![456-4561754_html5-js-css3-logo-png-transparent-png](https://user-images.githubusercontent.com/113235420/214694485-7fb59ada-c63d-45db-92b3-4d3bdf904ef6.png)
+JavaScript 
+Css
+Html
