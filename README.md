@@ -22,5 +22,6 @@ Per lo stile ho usato Css richiamando le classi create in JS. Ho preferito uno s
 
 ### PROGRAMMATO CON 
 
-JavaScript ![102114_Gaurang_JavaScript-and-the large](https://user-images.githubusercontent.com/113235420/214693602-886a5246-53c8-4aa2-8d9c-0f51c2f49e3c.jpg)
+![logo-javascript-png-java-script-js-logo-format-ai-javascript-logo-vector-png-213](https://user-images.githubusercontent.com/113235420/214693824-29a8d635-4514-4006-a5a3-a59052521697.png)
+
 
