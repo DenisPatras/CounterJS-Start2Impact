@@ -22,4 +22,5 @@ Per lo stile ho usato Css richiamando le classi create in JS. Ho preferito uno s
 
 ### PROGRAMMATO CON 
 
-* [![Next][JavaScript.js]][JavaScript-https://it.wikipedia.org/wiki/JavaScript]
+JavaScript ![102114_Gaurang_JavaScript-and-the large](https://user-images.githubusercontent.com/113235420/214693602-886a5246-53c8-4aa2-8d9c-0f51c2f49e3c.jpg)
+
