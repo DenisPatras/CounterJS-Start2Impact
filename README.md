@@ -16,8 +16,8 @@ REQUISITI TECNICI:
 
 LO SVILUPPO:
 
-Per una buona riuscita di questo progetto ho dovuto manipolare il DOM, come?!.... ho usato la funzione createElement per creare i vari div che mi servivano per dare forma al contatore. Successivamente ho creato con la stessa funzione i pulsanti +,- e quello di reset. Ho usato appendChild per aggiingere un nuovo elemento all'elemento padre, in questo modo il codice risulta meno lungo. 
-Per lo stile ho usato Css richiamando le classi create in JS. Ho preferito uno stile minimal e con colori non molto accesi.
+Per una buona riuscita di questo progetto ho dovuto manipolare il DOM, come?!.... ho usato la funzione createElement per creare i vari div che mi servivano per dare forma al contatore. Successivamente ho creato con la stessa funzione i pulsanti +,- e quello di reset. Ho usato appendChild per aggiungere un nuovo elemento all'elemento padre, in questo modo il codice risulta meno lungo. 
+Per lo stile ho usato Css richiamando le classi create in JS. Ho preferito uno stile minimal con colori non molto accesi.
 
 
 ### PROGRAMMATO CON 
